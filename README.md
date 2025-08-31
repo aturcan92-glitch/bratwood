@@ -1,0 +1,1 @@
+Скопируй index.html в корень репозитория bratwood-site и включи GitHub Pages (main / root).
